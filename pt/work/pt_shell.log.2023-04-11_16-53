@@ -1,0 +1,31 @@
+Error: Library Compiler executable path is not set. (PT-063)
+setting auto_restore_mw_cel_lib_setup true
+pt_shell> fs
+setting top_design to: 
+fifo1_sram
+pt_shell> source ../sripts/pt_min.tcl
+Error: could not open script file "../sripts/pt_min.tcl" (CMD-015)
+pt_shell> 
+pt_shell> 
+pt_shell> 
+pt_shell> 
+pt_shell> 
+pt_shell> fs
+setting top_design to: 
+fifo1_sram
+pt_shell> 
+pt_shell> 
+pt_shell> source ../sripts/pt_min.tcl
+Error: could not open script file "../sripts/pt_min.tcl" (CMD-015)
+pt_shell> 
+pt_shell> 
+pt_shell> 
+pt_shell> 
+pt_shell> exit
+Maximum memory usage for this session: 834.72 MB
+CPU usage for this session: 2 seconds 
+Elapsed time for this session: 168 seconds
+Diagnostics summary: 3 errors
+
+Thank you for using pt_shell!
+

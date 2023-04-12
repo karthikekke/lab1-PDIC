@@ -1,0 +1,11 @@
+#@ # 
+#@ # Running icc2_shell Version Q-2019.12-SP4 for linux64 -- May 26, 2020
+#@ # Date:   Tue Apr 11 16:24:31 2023
+#@ # Run by: ekke@mo.ece.pdx.edu
+#@ 
+
+source /u/ekke/PDIC/lab1-karthikekke/apr/work/.synopsys_icc2.setup
+true
+fs
+source ../scripts/floorplan-macros2.tcl
+exit

@@ -1,0 +1,14 @@
+setting auto_restore_mw_cel_lib_setup true
+Initializing gui preferences from file  /u/ekke/.synopsys_dv_prefs.tcl
+dc_shell> 
+dc_shell> gui_start
+4.1
+dc_shell> exit
+
+Memory usage for this session 75 Mbytes.
+Memory usage for this session including child processes 75 Mbytes.
+CPU usage for this session 7 seconds ( 0.00 hours ).
+Elapsed time for this session 213 seconds ( 0.06 hours ).
+
+Thank you...
+
